@@ -22,7 +22,11 @@ marquee {
     width: 100%;
     text-decoration: underline;
 }
-
+.image1{
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
 .travel_mainDiv {
     border: 2px solid #ff8045;
     padding-left: 0px;
